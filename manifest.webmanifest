@@ -1,0 +1,21 @@
+{
+  "name": "Kinopoisk CX",
+  "short_name": "Кино .CX",
+  "description": "Поиск фильмов и сериалов с открытием ссылок на Kinopoisk.cx",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "theme_color": "#111318",
+  "background_color": "#111318",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}
